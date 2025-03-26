@@ -1,7 +1,3 @@
-Below is a revised project description along with clear setup steps:
-
----
-
 ### **Project Overview**
 
 This e-commerce website is built using the MERN (MongoDB, Express, React, Node.js) stack and is inspired by popular online shopping platforms. It features a robust design, seamless payment integration using RazorPay, and works smoothly on mobile, web, and iOS devices. The application uses Material UI for a modern, responsive look, and the code is structured cleanly for easy understanding and maintenance.
